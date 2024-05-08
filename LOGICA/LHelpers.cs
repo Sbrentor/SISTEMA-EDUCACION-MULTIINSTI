@@ -22,6 +22,7 @@ namespace LOGICA
             else MessageBox.Show("PON BIEN LA LETRA PARA QUE APAREZCA EL MENSAJE");
         }
         //
+
         public string CleanSQL(string str)
         {
             string strout = "";
